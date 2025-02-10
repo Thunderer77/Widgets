@@ -1,0 +1,34 @@
+com.example.widgets.app-drawerlayout-1.1.1-0 C:\Users\Haier\.gradle\caches\transforms-4\00f481b9c21fd7265515f14b3038f22f\transformed\drawerlayout-1.1.1\res
+com.example.widgets.app-lifecycle-viewmodel-savedstate-2.6.1-1 C:\Users\Haier\.gradle\caches\transforms-4\023eab8e2758097c0497b454aac4c133\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.widgets.app-constraintlayout-2.1.4-2 C:\Users\Haier\.gradle\caches\transforms-4\07cb6b934dcbd49850611827b6b24e56\transformed\constraintlayout-2.1.4\res
+com.example.widgets.app-emoji2-1.2.0-3 C:\Users\Haier\.gradle\caches\transforms-4\11e0d03c87ef6afd6f33d7df7be629de\transformed\emoji2-1.2.0\res
+com.example.widgets.app-coordinatorlayout-1.1.0-4 C:\Users\Haier\.gradle\caches\transforms-4\28f6fb1e9128c2eef748d4e46efeeaea\transformed\coordinatorlayout-1.1.0\res
+com.example.widgets.app-lifecycle-process-2.6.1-5 C:\Users\Haier\.gradle\caches\transforms-4\31ed38f4c4480230cae58274d859208c\transformed\lifecycle-process-2.6.1\res
+com.example.widgets.app-core-runtime-2.2.0-6 C:\Users\Haier\.gradle\caches\transforms-4\386d8512ba3cbe3e7110fcd0dba6886b\transformed\core-runtime-2.2.0\res
+com.example.widgets.app-recyclerview-1.1.0-7 C:\Users\Haier\.gradle\caches\transforms-4\47dc12e4f91c8a93cca752c4da9b625d\transformed\recyclerview-1.1.0\res
+com.example.widgets.app-lifecycle-runtime-2.6.1-8 C:\Users\Haier\.gradle\caches\transforms-4\50b8897c0f04be1fd601eebad182f35f\transformed\lifecycle-runtime-2.6.1\res
+com.example.widgets.app-lifecycle-livedata-core-2.6.1-9 C:\Users\Haier\.gradle\caches\transforms-4\616c122d0ed7ca02431c1b964aaeeb15\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.widgets.app-startup-runtime-1.1.1-10 C:\Users\Haier\.gradle\caches\transforms-4\640d7d40805e0bdee63a410cd0ef7dec\transformed\startup-runtime-1.1.1\res
+com.example.widgets.app-transition-1.2.0-11 C:\Users\Haier\.gradle\caches\transforms-4\77f137a87992fd9d6f56de84f1d979db\transformed\transition-1.2.0\res
+com.example.widgets.app-savedstate-1.2.1-12 C:\Users\Haier\.gradle\caches\transforms-4\7a3421932b09a4aefab93249a9bfb270\transformed\savedstate-1.2.1\res
+com.example.widgets.app-profileinstaller-1.3.0-13 C:\Users\Haier\.gradle\caches\transforms-4\7bc0ef85ccec3362fbd649cf12404c6c\transformed\profileinstaller-1.3.0\res
+com.example.widgets.app-appcompat-resources-1.6.1-14 C:\Users\Haier\.gradle\caches\transforms-4\8e023544f25934db086d4852bbef3b4b\transformed\appcompat-resources-1.6.1\res
+com.example.widgets.app-cardview-1.0.0-15 C:\Users\Haier\.gradle\caches\transforms-4\9596d3c5538fe9d8806d3a9b6386a118\transformed\cardview-1.0.0\res
+com.example.widgets.app-annotation-experimental-1.3.0-16 C:\Users\Haier\.gradle\caches\transforms-4\96ad360b21972116053a8361281c3e07\transformed\annotation-experimental-1.3.0\res
+com.example.widgets.app-appcompat-1.6.1-17 C:\Users\Haier\.gradle\caches\transforms-4\aef268da007445363dc718a754f6c4e4\transformed\appcompat-1.6.1\res
+com.example.widgets.app-activity-1.8.0-18 C:\Users\Haier\.gradle\caches\transforms-4\bdd731173bc4ee970239632d1087a300\transformed\activity-1.8.0\res
+com.example.widgets.app-fragment-1.3.6-19 C:\Users\Haier\.gradle\caches\transforms-4\c01a236ad00365d7753af78e9b11614c\transformed\fragment-1.3.6\res
+com.example.widgets.app-lifecycle-livedata-2.6.1-20 C:\Users\Haier\.gradle\caches\transforms-4\c3923cf6babf5ecf9d4c653fcdb13b98\transformed\lifecycle-livedata-2.6.1\res
+com.example.widgets.app-emoji2-views-helper-1.2.0-21 C:\Users\Haier\.gradle\caches\transforms-4\c9ffde71153a3db6d7ca593aadfb6b47\transformed\emoji2-views-helper-1.2.0\res
+com.example.widgets.app-core-ktx-1.12.0-22 C:\Users\Haier\.gradle\caches\transforms-4\db68be7d0b2d9d2ae1b93bb1fe88e73b\transformed\core-ktx-1.12.0\res
+com.example.widgets.app-core-1.12.0-23 C:\Users\Haier\.gradle\caches\transforms-4\dec0d75542b66236755625fc12c93781\transformed\core-1.12.0\res
+com.example.widgets.app-viewpager2-1.0.0-24 C:\Users\Haier\.gradle\caches\transforms-4\e256353a714053bdd836acecd6fdd640\transformed\viewpager2-1.0.0\res
+com.example.widgets.app-lifecycle-viewmodel-2.6.1-25 C:\Users\Haier\.gradle\caches\transforms-4\ebd9e4cfdc6083b29d235fd7d1c64f33\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.widgets.app-material-1.11.0-26 C:\Users\Haier\.gradle\caches\transforms-4\ed0653bf8dbcb2921f96358bd8e502ab\transformed\material-1.11.0\res
+com.example.widgets.app-pngs-27 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\build\generated\res\pngs\debug
+com.example.widgets.app-resValues-28 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\build\generated\res\resValues\debug
+com.example.widgets.app-packageDebugResources-29 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.widgets.app-packageDebugResources-30 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.widgets.app-debug-31 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.widgets.app-debug-32 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\src\debug\res
+com.example.widgets.app-main-33 C:\Users\Haier\Downloads\AndroidStudioProjects (1)\Widgets\app\src\main\res
